@@ -162,7 +162,6 @@ body {
     height: 406px;
     flex-direction: column;
     align-items: flex-start;
-    gap: 32px;
     flex-shrink: 0;
   }
 
@@ -175,7 +174,6 @@ body {
 
   .line-block {
     width: 100%;
-    margin-bottom: 20px;
   }
 
   .divider {
