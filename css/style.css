@@ -160,6 +160,7 @@ body {
   .apie-imone {
     display: flex;
     height: 406px;
+    flex: 0;
     flex-direction: column;
     align-items: flex-start;
     flex-shrink: 0;
